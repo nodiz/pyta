@@ -1,4 +1,4 @@
-# pyta
+# PYTA
 
 *Put your telephone away*
 
