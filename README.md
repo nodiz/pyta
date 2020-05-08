@@ -20,6 +20,9 @@ PYTA aims to create a physical barrier between you and anything that disturbs yo
 
 **Prototypes**
   - PYTA is the first working prototype done, based on the initial concept. It is a wooden box with components attached on the lid controled with an arduino pro mini and designed with 3d printed parts.
+  
+  ![Image of PytaBox](https://wiki.octanis.org/_media/octanisx/bcc6a570-31ca-49e9-a3a4-4ff34bec87e4.jpeg)
+  
   -  PYTA3D aims to be cleaner and lighter than the first one with a 3d printed box and a hidden compartment for electrical component, an oled display and a rotary pushbutton instead of buttons.
 
 **Features**
